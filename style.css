@@ -1,0 +1,68 @@
+/* #EE287F */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url('img/Vector.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    background-position: center;
+    height: 100vh;
+}
+.intro{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.NavLink{
+    margin: 10px 20px;
+}
+.firsCn{
+    padding: 40px 40px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    color: #65617D;
+    letter-spacing: 1.5px;
+    font-size: large;
+    font-weight: 300;
+}
+.intro{
+    color: #EE287F;
+}
+.btn{
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.logo{
+    position: absolute;
+    left: 100;
+    right: 50px;
+    top: 500px;
+    bottom: 0;
+}
+.logo:hover{
+    width: 40px;
+    height: 40px;
+}
+.logo1{
+    position: absolute;
+    left: 100;
+    right: 50px;
+    top: 580px;
+    bottom: 0;
+}
+.logo1:hover{
+    width: 40px;
+    height: 40px;
+}
+.logo2{
+    position: absolute;
+    left: 100;
+    right: 50px;
+    top: 650px;
+    bottom: 0;
+}
+.logo2:hover{
+    width: 40px;
+    height: 40px;
+}
+
